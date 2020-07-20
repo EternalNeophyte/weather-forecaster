@@ -1,0 +1,4 @@
+qOfPressure: -0.02361366411
+qOfHumidity: -0.5147005337
+qOfWindSpeed: -1.878856301
+qOfDaylightDuration: 3.572815066
